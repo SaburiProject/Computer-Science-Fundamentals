@@ -1,1 +1,39 @@
+Weeks 1-2: The Absolute Basics
 
+Topics: Variables, Data Types (int, float, string, boolean), Operators (arithmetic, comparison, logical), print() and input() functions, Type Casting.
+
+Goal: You should be able to predict the output of any simple expression.
+
+Weeks 3-4: Control Flow & Core Data Structures
+
+Topics: if/elif/else, for loops, while loops, break/continue.
+
+Deep Dive into Data Structures:
+
+Lists: All methods (append, pop, insert, etc.), slicing, list comprehensions. Understand that lists are mutable.
+
+Tuples: Understand why they are used and that they are immutable.
+
+Dictionaries: How to add/remove items, loop through keys and values.
+
+Sets: Understand what they are and their basic operations.
+
+Goal: Master list comprehensions and understand the core difference between mutable and immutable data types. This is a very common source of MCQ questions.
+
+Weeks 5-6: Functions, Scope, and Lambdas
+
+Topics: Defining functions, arguments (positional, keyword), *args, **kwargs, return values.
+
+Scope: The LEGB Rule (Local, Enclosing, Global, Built-in). You must understand this to pass MCQ tests.
+
+Lambda functions: Learn the syntax for these small, anonymous functions.
+
+Goal: You should be able to trace how a variable gets its value inside nested functions.
+
+Weeks 7-8: Object-Oriented Programming (OOP) & Modules
+
+Topics: Classes, Objects (__init__ method, instance attributes), basic Inheritance.
+
+Modules: How to import from other files and from Python's standard library (like math or random).
+
+Goal: Understand the difference between a class and an object, and how import statements work.
